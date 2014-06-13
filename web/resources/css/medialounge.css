@@ -1,0 +1,174 @@
+<!-- FMF Slider functionality -->
+.galleryImages {
+	position: relative;
+	width: 200px;
+	height: 193px;
+	overflow: hidden;
+}
+
+.galleryImages .media-object {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#backGrdColor {
+	background-color: #EBEBEB;
+	width: 179px;
+}
+
+.font {
+	color: #7C7C7C;
+}
+
+audio {
+	width: 179px;
+	height: 50px;
+}
+
+.img-responsive_FMF {
+display: block;
+max-width: 100%;
+/* height: auto; */
+}
+
+.title_FMF {
+	 color:  #00AFEC;
+	 font: bold;
+	 font-size: 11px;
+	 padding-left: 14px;"
+}
+.value_FMF {
+	 color: #FFFFFF;
+	 font: bold;
+	 font-size: 11px;"
+}
+
+.bottomAdvCenter {
+    position: relative;
+    height: 20px;
+    width: 100px;
+}
+.bottomAdvCenter img {
+    position: absolute;   
+}
+
+.bottomAdvLeft {
+    position: relative;
+    width: 200px;
+    height: 103px;
+}
+.bottomAdvLeft img {
+    position: absolute;   
+}
+
+/* .whatAdContent {
+    position: relative;
+    height: 20px;
+    width: 100px;
+}
+.whatAdContent img {
+    position: absolute;   
+}
+
+.highAdContent {
+    position: relative;
+    height: 20px;
+    width: 100px;
+}
+.highAdContent img {
+    position: absolute;   
+} */
+
+
+#mcts1
+  {
+      width:700px;
+      height:86px;
+      margin: 0 auto;
+      padding:2px 2px;
+      border:1px solid #dedcb4;
+      background:#f2f1ea url(loading.gif) no-repeat 50% 50%;
+      box-shadow: 0px 1px 11px #CCCCCC;
+
+      /* Do not alter the below settings*/
+      white-space:nowrap;
+      position:relative;
+      font-size:0px;
+      z-index: -1;
+  }
+  #mcts1>* {display:none;}
+  #mcts1 div.item
+  {
+      padding:2px;
+      margin-right:6px; /* this specifies the distance between each thumbnail */
+      background-color:White;
+      border:1px solid #ddd;
+      text-align:center;
+      position:relative;
+  }
+  #mcts1 img
+  {
+      border:none;
+  }
+
+  #mcts1 .navBullets
+  {
+      display:none;
+  }
+
+  .class1
+  {
+      width:130px;
+      height: 80px;
+      background:#444;
+      text-align:center;
+      color:White;
+      font:normal 11px/14px Arial;
+      white-space:normal;
+  }
+  .class1 p
+  {
+      margin-top:0;
+      margin-bottom:6px;
+      padding-top:6px;
+      font:bold 13px Verdana;
+      color:#F90;
+  }
+
+
+      /* --------- Others ------- */
+  #mcts1
+  {
+      transform: translate3d(0,0,0);
+      -ms-transform:translate3d(0,0,0);
+      -moz-transform:translate3d(0,0,0);
+      -o-transform:translate3d(0,0,0);
+  }
+  
+  /* ------ Jobs ------ */
+.form_dropdown {
+	width: 230px !important;
+}
+
+.form_textbox {
+	width: 200px !important;
+}
+.form_textarea {
+	 height: 83px !important;
+	 width: 250px !important;
+}
+.form_table {
+	 margin-left: 30px;
+}
+.form_table_title {
+	 padding:5px 10px 5px 60px;
+	 color: teal;
+}
+.form_table_value {
+	 padding: 5px 150px 5px 10px;
+}
+.form_table_value1 {
+	 padding: 5px 12px 5px 10px;
+}
